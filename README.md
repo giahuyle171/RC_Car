@@ -1,3 +1,16 @@
+
+https://github.com/user-attachments/assets/0fd6e4b5-0a9c-4c9d-acb8-b1c765e18339
 # RC Car
-Xe điều khiển từ xa tốc độ cao với bộ điều khiển TX-RX Diy.
-[https://github.com/giahuyle171/RC_Car/blob/main/Image/d14366f6c72c47721e3d.jpg](https://github.com/giahuyle171/RC_Car/blob/b6b414e4d3010e68f9c7ebe99e5a811391767478/Image/d14366f6c72c47721e3d.jpg)
+Xe điều khiển từ xa tốc độ cao với bộ điều khiển TX-RX tự chế tạo.
+<img width="2560" height="1920" alt="d14366f6c72c47721e3d" src="Image/d14366f6c72c47721e3d.jpg" />
+# TX-RX controler
+Bộ điều khiển từ với nrf24l01
+<img width="2560" height="1920" alt="d14366f6c72c47721e3d" src="Image/7c5660e7c13d4163182c.jpg" />
+# Differential
+Thiết kế hệ thống dẫn động cầu sau cho xe, với vi sai in 3d
+https://github.com/user-attachments/assets/5deaae02-1222-4905-bc9a-55bdedbe6a4d
+# Video demo
+https://github.com/user-attachments/assets/64d63a98-ecf7-4508-ad81-e11049c115cf
+
+
+
