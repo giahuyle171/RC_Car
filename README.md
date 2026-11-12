@@ -1,5 +1,5 @@
 # RC Car
-Xe điều khiển từ xa tốc độ cao với bộ điều khiển TX-RX tự chế tạo.
+Xe điều khiển từ xa tốc độ cao với bộ điều khiển TX-RX sử dụng module RF nRF24L01.
 <img width="2560" height="1920" alt="d14366f6c72c47721e3d" src="Image/d14366f6c72c47721e3d.jpg" />
 # TX-RX controler
 Bộ điều khiển từ xa với sóng 2.4GHz thông qua module nrf24l01
