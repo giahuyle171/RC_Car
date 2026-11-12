@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/12b59e3c-bfab-4d66-8a31-8e2925f82b3c
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/12b59e3c-bfab-4d66-8a31-8e2925f82b3c" width="100%" alt="Mo ta anh 1">
+      <video src="https://github.com/user-attachments/assets/12b59e3c-bfab-4d66-8a31-8e2925f82b3c" controls width="80%"></video>
       <br>
     </td>
     <td width="50%" align="center">
