@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/0fd6e4b5-0a9c-4c9d-acb8-b1c765e18339
 # RC Car
 Xe điều khiển từ xa tốc độ cao với bộ điều khiển TX-RX tự chế tạo.
 <img width="2560" height="1920" alt="d14366f6c72c47721e3d" src="Image/d14366f6c72c47721e3d.jpg" />
